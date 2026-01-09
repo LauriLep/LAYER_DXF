@@ -4,7 +4,7 @@ Created on Wed Jan  7 10:08:52 2026
 
 @author: lauri.leppala
 """
-#Creates layers of .dxf drawing by colors and lineweights and then creates new "TEST_BY_COLOR_LINEWEIGHT.dxf"
+#Creates layers for .dxf drawing by colors and lineweights and then creates new "TEST_BY_COLOR_LINEWEIGHT.dxf"
 #drawing which has all layers by color and lineweights.
 
 import ezdxf
